@@ -1,0 +1,76 @@
+body {
+  background-color: #e0e8ff;
+}
+
+.container {
+  background-color: white;
+  width: 450px;
+  top: 102px;
+  left: 495px;
+  border: 1px;
+  border-radius: 16px;
+  margin-left: 495px;
+  margin-right: 495px;
+  margin-top: 102px;
+  margin-bottom: 166px;
+  box-shadow: 0px 20px 20px 0px rgba(56, 42, 225, 0.19);
+  font-family: "Red Hat Display", sans-serif;
+  font-optical-sizing: auto;
+}
+img {
+  margin-bottom: 56.06px;
+}
+
+h1 {
+  color: #1f2e55;
+  padding-left: 48px;
+  padding-right: 48px;
+  margin-bottom: 17px;
+  font-size: 28px;
+  font-weight: 900;
+  line-height: 37px;
+  text-align: center;
+}
+p {
+  width: 345px;
+  color: #717fa6;
+  padding-left: 48px;
+  padding-right: 48px;
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 58.48px;
+  line-height: 26px;
+}
+.button {
+  width: 345px;
+  height: 54.3px;
+  background: #382ae1;
+  color: white;
+  text-align: center;
+  margin-left: 48px;
+  margin-right: 48px;
+  border: 1px solid #382ae1;
+  border-radius: 10px;
+  box-shadow: 0px 20px 20px 0px rgba(56, 42, 225, 0.19);
+  margin-bottom: 19.22px;
+  font-size: 15px;
+  font-weight: 900;
+  line-height: 19.85px;
+  text-align: center;
+}
+
+.cancelOrder {
+  color: rgba(113, 127, 166, 1);
+  font-size: 15px;
+  text-align: center;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 19.85px;
+  text-align: center;
+  font-weight: 900;
+  background: none;
+  margin-bottom: 48px;
+  border: none;
+  padding-right: 178px;
+  padding-left: 176px;
+}
